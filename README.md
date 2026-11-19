@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi i'm Andrew-725 👋
+>“日拱一卒，功不唐捐”
+软件工程大一|持续学习提升
+- 🎯近期目标：学习掌握Git与Github~
+- 📖当前学习：C语言，Markdown，计算机基础，数学基础
+- 😽猫咪忠实爱好者
+！[打字动画](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=480&center=true&lines=Hi👋;I'm Andrew-725;LearningC&Markdown)
 
 <!--
 **Andrew-725/Andrew-725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
